@@ -3,7 +3,10 @@
 SharpDoc-TARA is a deep learning–based **document image restoration and enhancement** project implemented in **PyTorch**.  
 The project focuses on improving the visual quality of degraded document images (blur, noise, low contrast) to make them more readable and OCR-friendly.
 
-This repository contains an experimental Jupyter Notebook comparing **DocTARA-style restoration** with baseline document restoration approaches.
+This repository contains an experimental Jupyter Notebook comparing **SharpDoc-style restoration** with baseline document restoration approaches.
+
+# Pre-print PDF
+🔗 https://github.com/maazha55an/SharpDoc-TARA/blob/main/SharpDoc-TARA.pdf
 
 ---
 
