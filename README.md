@@ -6,7 +6,7 @@ The project focuses on improving the visual quality of degraded document images 
 This repository contains an experimental Jupyter Notebook comparing **SharpDoc-style restoration** with baseline document restoration approaches.
 
 # Pre-print PDF
-🔗 https://github.com/maazha55an/SharpDoc-TARA/blob/main/SharpDoc-TARA.pdf
+🔗 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5957235
 
 ---
 
